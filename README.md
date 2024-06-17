@@ -6,9 +6,9 @@ Export you F-secure ID protection and save to a file (fsk file)
 
 rename the file import.json
 
-save the python file in same directory
+save the Python file in same directory
 
-run the python file using pythin
+run the Python file using Python3 e.g. Python3 convert.py 
 
 the outpout.csv file is ready for import to the Personal voult in Proton Pass
 
