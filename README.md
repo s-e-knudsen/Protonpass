@@ -4,7 +4,7 @@ This is a convert utility for the F-Secure export file fsk file to the Proton pa
 Usage:
 Export you F-secure ID protection and save to a file (fsk file)
 
-rename the file import.json
+rename the file input.json
 
 save the Python file in same directory
 
